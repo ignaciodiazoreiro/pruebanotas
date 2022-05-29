@@ -1,0 +1,11 @@
+E:\Ignacio\2022\Cursos ECCI - Ciclo I\CI0140 Calidad de Software\Proyecto\STUDENT_GRADING_SYSTEM_IN_C_WITH_SOURCE_CODE\Student Grading System C#\gradingsystem\bin\Debug\gradsys.exe.config
+E:\Ignacio\2022\Cursos ECCI - Ciclo I\CI0140 Calidad de Software\Proyecto\STUDENT_GRADING_SYSTEM_IN_C_WITH_SOURCE_CODE\Student Grading System C#\gradingsystem\bin\Debug\gradsys.exe
+E:\Ignacio\2022\Cursos ECCI - Ciclo I\CI0140 Calidad de Software\Proyecto\STUDENT_GRADING_SYSTEM_IN_C_WITH_SOURCE_CODE\Student Grading System C#\gradingsystem\bin\Debug\gradsys.pdb
+E:\Ignacio\2022\Cursos ECCI - Ciclo I\CI0140 Calidad de Software\Proyecto\STUDENT_GRADING_SYSTEM_IN_C_WITH_SOURCE_CODE\Student Grading System C#\gradingsystem\bin\Debug\gradsys.xml
+E:\Ignacio\2022\Cursos ECCI - Ciclo I\CI0140 Calidad de Software\Proyecto\STUDENT_GRADING_SYSTEM_IN_C_WITH_SOURCE_CODE\Student Grading System C#\gradingsystem\obj\Debug\gradsys.csprojAssemblyReference.cache
+E:\Ignacio\2022\Cursos ECCI - Ciclo I\CI0140 Calidad de Software\Proyecto\STUDENT_GRADING_SYSTEM_IN_C_WITH_SOURCE_CODE\Student Grading System C#\gradingsystem\obj\Debug\Grading_System.Form1.resources
+E:\Ignacio\2022\Cursos ECCI - Ciclo I\CI0140 Calidad de Software\Proyecto\STUDENT_GRADING_SYSTEM_IN_C_WITH_SOURCE_CODE\Student Grading System C#\gradingsystem\obj\Debug\Grading_System.Properties.Resources.resources
+E:\Ignacio\2022\Cursos ECCI - Ciclo I\CI0140 Calidad de Software\Proyecto\STUDENT_GRADING_SYSTEM_IN_C_WITH_SOURCE_CODE\Student Grading System C#\gradingsystem\obj\Debug\gradsys.csproj.GenerateResource.cache
+E:\Ignacio\2022\Cursos ECCI - Ciclo I\CI0140 Calidad de Software\Proyecto\STUDENT_GRADING_SYSTEM_IN_C_WITH_SOURCE_CODE\Student Grading System C#\gradingsystem\obj\Debug\gradsys.csproj.CoreCompileInputs.cache
+E:\Ignacio\2022\Cursos ECCI - Ciclo I\CI0140 Calidad de Software\Proyecto\STUDENT_GRADING_SYSTEM_IN_C_WITH_SOURCE_CODE\Student Grading System C#\gradingsystem\obj\Debug\gradsys.exe
+E:\Ignacio\2022\Cursos ECCI - Ciclo I\CI0140 Calidad de Software\Proyecto\STUDENT_GRADING_SYSTEM_IN_C_WITH_SOURCE_CODE\Student Grading System C#\gradingsystem\obj\Debug\gradsys.pdb
