@@ -192,7 +192,7 @@ namespace Grading_System
 			{
 				
 				int inc;
-				int cosa;
+				int otra_variable;
 				int MaxRows;
 				
 				string sql = "select * from table1";
