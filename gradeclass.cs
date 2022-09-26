@@ -194,6 +194,7 @@ namespace Grading_System
 				int inc;
 				int otra_variable;
 				int MaxRows;
+				int variablequenoseusa;
 				
 				string sql = "select * from table1";
 				System.Data.OleDb.OleDbDataAdapter da = new System.Data.OleDb.OleDbDataAdapter(sql, conn);
