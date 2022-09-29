@@ -192,7 +192,7 @@ namespace Grading_System
 			{
 				
 				int inc;
-				int otra_variable;
+				int otra_variable_loca;
 				int MaxRows;
 				int variablequenoseusa;
 				
